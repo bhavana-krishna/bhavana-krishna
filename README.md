@@ -1,1 +1,36 @@
 - 👋 Hi, I’m @bhavana-krishna
+- 🙋‍♀️ About Me
+  - 🌍 Kerala, India  
+  - 🎓 BSc Computer Science, Mar Ivanios College, University of Kerala
+  - 🎓 MSc Computer Science, Department of Computer Science, University of Kerala (Pursuing)
+  - 🌱 **Currently Learning:** React.js, Node.js, Angular.js 
+  - 🎯 **Hobbies:**
+    - 🖥️ Coding  
+    - 🎨 Drawing/Sketching
+    - 📷 Photography
+    - 🎵 Listening to Music
+    - 🎤 Singing
+    - 🎻 Playing Musical Instruments (Violin, Veena)
+    - 📚 Reading  
+    - 📜 Poetry
+    - 📖 Short Stories
+    - 🖋️ Creative Writing
+    - 💃 Dancing
+- 💻 Technical Skills
+  - 3⭐ or 4⭐ / 5⭐ 
+    - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+    - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    - ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+    - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)  
+    - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) 
+
+  - 1⭐ or 2⭐ or 3⭐ / 5⭐
+    - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+    - ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+    - ![Arduino](https://img.shields.io/badge/Arduino-%23A6D157.svg?style=for-the-badge&logo=arduino&logoColor=white)
+
+- 🎨 Artistic Skills (Performing Arts)  
+  - ![Violin](https://img.shields.io/badge/Violin-%23A6D157.svg?style=for-the-badge&logo=music&logoColor=white) **Violin**: Performs Carnatic Violin Concerts, Violin Fusions etc 
+  - ![Vocal](https://img.shields.io/badge/Vocal-%23F7DF1E.svg?style=for-the-badge&logo=music&logoColor=black) **Vocal**: Performs Carnatic Vocal Concerts  
+  - ![Voco Violin](https://img.shields.io/badge/Voco_Violin-%2300599C.svg?style=for-the-badge&logo=music&logoColor=white) **Vocal Violin**: Combining singing with violin performances  
+  - ![Dancing](https://img.shields.io/badge/Dancing-%231572B6.svg?style=for-the-badge&logo=music&logoColor=white) **Dancing**: Enjoys dance performances  
